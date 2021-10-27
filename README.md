@@ -28,3 +28,14 @@ Here are some ideas to get you started:
 <code><img alt="HTML5&CSS3" width="52px" src="https://maharatech.gov.eg/pluginfile.php/279774/course/overviewfiles/banner-1.jpg" ></code>
 <code><img  alt="GitHub" width="26px" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" ></code>
 <code><img  alt="Terminal" width="26px" src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png" ></code>
+<hr>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+[![Maksim Vasilev stats](https://github-readme-stats.vercel.app/api?username=MDVasilev20)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+<details>
+  <summary><b>I am going to fix this later</b></summary>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDVasilev20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</details
+</details>
