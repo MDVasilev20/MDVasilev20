@@ -4,6 +4,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMDVasilev20%2FMDVasilev20%2Fblob%2Fmain%2FREADME.md&count_bg=%2372FFF5&title_bg=%23555555&icon=&icon_color=%2351FB6E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<img align="right" height="200" width="356" alt="Monkey coding" src="https://media3.giphy.com/media/zOvBKUUEERdNm/200.gif" />
+
 ## How my coding journey is going:
 
 - ⌨️ I’m currently trying to learn JS and PHP, but I have more important work right now ~_~
