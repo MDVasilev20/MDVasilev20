@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMDVasilev20%2FMDVasilev20%2Fblob%2Fmain%2FREADME.md&count_bg=%2372FFF5&title_bg=%23555555&icon=&icon_color=%2351FB6E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **MDVasilev20/MDVasilev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 <details>
   <summary><b>I am going to fix this later</b></summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDVasilev20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</details
+  </details>
 </details>
