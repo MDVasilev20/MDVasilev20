@@ -25,11 +25,9 @@
   <summary><b>⚡ Github Stats</b></summary>
 
 [![Maksim Vasilev stats](https://github-readme-stats.vercel.app/api?username=MDVasilev20)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
-<details>
-  <summary><b>I am going to fix this later</b></summary>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDVasilev20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  </details>
+  
 </details>
 <hr>
 <div align="center">
