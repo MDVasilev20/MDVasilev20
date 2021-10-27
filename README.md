@@ -39,3 +39,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDVasilev20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </details>
 </details>
+<hr>
+<div align="center">
+  
+  <h1><b>Never settle for less, because then you miss out on more</b></h1>
+
+</div>
