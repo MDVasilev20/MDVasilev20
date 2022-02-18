@@ -8,7 +8,7 @@
 
 ## How my coding journey is going:
 
-- ⌨️ I’m currently trying to learn JS and PHP, but I have more important work right now
+- ⌨️ I’m currently trying to learn JS, but I have more important work right now
 - 📚 Current languages are C++ and HTML5&CSS3
 - 🧠 I need someone with imagination who can give me mock pages to train my front-end coding
 - 💻 You can reach out to me at: <a href="https://www.instagram.com/maksito_vasilev/"><img width="20px" height="20px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>
