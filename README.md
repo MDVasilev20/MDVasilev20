@@ -2,7 +2,7 @@
 
 <hr>
 
-<img align="right" height="300" width="556" alt="Programming GIF" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif" />
+<img align="right" height="300" width="556" alt="Programming GIF" src="https://miro.medium.com/1*IRFhWNqusUWbTsB1hQXhrQ.gif" />
 
 ## How my coding journey is going:
 
